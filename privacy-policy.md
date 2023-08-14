@@ -1,4 +1,5 @@
 Privacy Policy
+-------------------------------
 
 At Turbo ERP, we are committed to protecting the privacy of our users. This privacy policy explains how we collect, use, and disclose personal information through our ERP application.
 
@@ -12,7 +13,10 @@ Location
 Some app features need location access and the app asks for your permission first, when you accept it this means you are informed and accept collect and share your location to use these features.
 
 payment
-this app includes payment using a secure API and payment gateway (Paymob), we do not collect your payment data.
+this app includes payment using a secure API and payment gateway (Paymob), your subscription is annual and paid annually. we do not collect your payment data.
+
+Refund
+You can cancel your subscription at any time, by contacting us and asking for a refund by providing the subscription process payment ID shown in your subscription history. The refund process may take from 2-14 days. after discount the remaining subscription from the total subscription in months.
 
 User Rights
 Users have the right to access, correct, and delete their personal information. information and withdraw their consent at any time. To exercise these rights, some of the data can edit from the app, or users can contact us using the contact information provided in this privacy policy.
@@ -49,4 +53,4 @@ We may update this privacy policy from time to time. We will notify users of any
 Contact Us
 If you have any questions or concerns about this privacy policy or our privacy practices, please contact us using the contact information provided in this privacy policy.
 
-This privacy policy is effective as of 14/08/2023.
+This privacy policy is effective as of 14/08/2023
