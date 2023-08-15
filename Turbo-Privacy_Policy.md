@@ -9,7 +9,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to The information that we request is retained on your device and may be collected if necessary.
 
-Location Some app features need location access and the app asks for your permission first, when you accept it this means you are informed and accept collect your location to use these features.
+Location Some app features need location access and the app asks for your permission first, when you accept it this means you are informed and accept collect your location to use these features.we will not use or share your information with anyone except as described in this Privacy Policy.
 
 User Rights Users have the right to access, correct, and delete their personal information. information and withdraw their consent at any time. To exercise these rights, some of the data can edit from the app, or users can contact us using the contact information provided in this privacy policy.
 
@@ -19,7 +19,7 @@ Log Data We want to inform you that whenever you use our Service, in a case of a
 
 Security We take appropriate security measures to protect against unauthorized access, alteration, disclosure, or destruction of personal information.
 
-payment this app includes payment using a secure API and payment (Paymob) gateway, your subscription is annual and paid annually. we do not collect your payment data.
+payment this app includes payment using a secure API and payment (Paymob) gateway, your subscription is annual and paid annually. we will not use or share your information.
 
 Refund You can cancel your subscription at any time, by contacting us and asking for a refund by providing the subscription process payment ID shown in your subscription history. The refund process may take from 2-14 days. after discount the remaining subscription from the total subscription in months.
 
