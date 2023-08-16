@@ -6,6 +6,34 @@ We know that you care how information about you is used and shared, and we appre
 What Personal Information About Customers Does Turbo Collect?
 We collect your personal information in order to provide and continually improve our products and services.
 
+
+Data collections and uses
+A. The data we collect
+Turbo collects data: 
+
+provided by users to Turbo, such as during account creation
+created during the use of our services, such as location, app usage, and device data.
+
+Data created during the use of our services. This includes: 
+
+Location data (delivery person): We collect precise or approximate location data from drivers’ and delivery persons’ mobile devices when the Turbo app is running in the foreground (app open and on-screen) or background (app open but not on-screen).
+
+Location data Manager. We collect precise or approximate location information from Manager and delivery person mobile devices if they enable us to do so via their device settings.
+
+Turbo collects such data from the time a ride or order is requested until it is finished, and any time the app is running in the foreground (app open and on-screen). See “Choice and transparency” below for information on how the delivery person and Manager can enable precise location data collection.
+
+Managers may use the Turbo app without enabling the collection of location data from their mobile devices. However, this may affect certain features of the Turbo app. For example, a Manager who has not enabled precise location data will have to manually enter their pickup address.
+
+In addition, precise location data collected from a delivery person's device during a trip is linked to the Manager account, even if the delivery person's  has not enabled precise location data to be collected from their device. This data is used for purposes such as receipt generation, customer support, fraud detection.
+
+Transaction information: We collect transaction information related to the use of our services, including the type of services requested or provided; trip or order details (such as date and time, requested pick-up and drop-off addresses, distance traveled and items ordered); and payment transaction information (such as a restaurant’s or merchant's name and location, amount charged, and payment method).
+
+Usage data: We collect data about how users interact with our services. This includes access dates and times, app features or pages viewed, browser type, and app crashes and other system activity.
+
+Device data: We collect data about the devices used to access our services, including the hardware models, device IP address or other unique device identifiers, operating systems and versions, software, preferred languages, advertising identifiers, device motion data, and mobile network data.
+
+Communications data: We collect data regarding phone, text or in-app communications between users that are enabled through Turbo’s apps. This includes date and time, as well as the content of text or in-app messages. We may also collect the content of phone calls solely where users are notified in advance that the call may be recorded.
+
 Information You Give Us: We receive and store any information you provide in relation to Turbo Services. 
 Examples of Information Collected
 
